@@ -1,0 +1,33 @@
+body{
+    background: burlywood;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.keret{
+    width: 80%;
+    border: 5px solid #666566;
+    background: bisque;
+    box-shadow: 4px 4px 10px rgba(0,0 ,0 , 0.1);
+    border-radius: 12px;
+    padding: 11px;
+}
+
+
+
+P{
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+}
+
+.kep{
+    width: 70%;
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
